@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Gokul R 👋
 
-<!--
-**Gokul-3112/Gokul-3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate interested in building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- React.js
+- SQL / MySQL
+- Node.js
+- MongoDB
+- Figma
+
+### 🌱 Currently Learning
+
+- React.js
+- Modern JavaScript
+- Frontend Development
+
+### 📌 Projects
+
+- Blockchain-Based Bureaucratic Document Approval System
+- CSE Department Website
+- Train Accident Prevention System
+
+### 🎯 Career Goal
+
+Looking for opportunities as a Junior Frontend / React Developer where I can learn, contribute, and grow.
