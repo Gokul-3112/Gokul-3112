@@ -6,7 +6,7 @@ I'm a Computer Science Engineering graduate interested in building responsive an
 
 ### 🛠️ Skills
 
-- HTML5
+- HTML5 | CSS | JavaScript |BootStrap | React.js (basics) |
 - CSS3
 - JavaScript
 - Bootstrap 5
