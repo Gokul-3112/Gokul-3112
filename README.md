@@ -57,10 +57,12 @@ Intern Web Developer — Brassy Technology, Tirunelveli (Remote), 2022 Built res
 📜 Learnthon Certificate
 🎨 UI/UX Designing Certificate
 
+<hr></hr>
 
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gokul-3112&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-3112&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
+<hr></hr>
 🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-3112&theme=tokyonight&hide_border=true"/> </p>
 
