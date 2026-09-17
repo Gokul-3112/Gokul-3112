@@ -66,6 +66,8 @@ Intern Web Developer — Brassy Technology, Tirunelveli (Remote), 2022 Built res
 🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-3112&theme=tokyonight&hide_border=true"/> </p>
 
+
+<hr></hr>
 🎯 Goals
 ✅ Land my first role as a Frontend/Full Stack Developer
 ✅ Strengthen React.js skills beyond the basics
@@ -73,5 +75,6 @@ Intern Web Developer — Brassy Technology, Tirunelveli (Remote), 2022 Built res
 ✅ Contribute to open source projects
 ✅ Keep building and sharing real-world projects
 
+<hr></hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gokul-3112&label=Profile+Views&color=0e75b6&style=flat"/> </p> <h3 align="center"> ⭐ Thanks for visiting my profile! ⭐ </h3> <p align="center"> If you like my work, consider giving a ⭐ to my repositories and connecting with me. </p>
 
